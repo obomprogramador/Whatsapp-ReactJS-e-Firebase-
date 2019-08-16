@@ -1,15 +1,14 @@
 ## Projéto Whatsapp com ReactJS e Firebase
 
 Obs:
-  -Baixe os arquivos para uma pasta chamada app
-  -Entre dentro da pasta com cd app e rode o comando yarn install
-  -A pasta app.rar contem as pastas "public e src" descompacte-a junto com os outros arquivos.
+
+-Baixe os arquivos para uma pasta chamada app.
+-Entre dentro da pasta com cd app e rode o comando yarn install.
+-A pasta app.rar contem as pastas "public e src" descompacte-a junto com os outros arquivos.
   
 ## Link para aplicação:
 
-https://chatboot-c5a24.firebaseapp.com/
-
-Veja a aplicação em funcionamento!
+Veja a aplicação em funcionamento: https://chatboot-c5a24.firebaseapp.com/
 
 
 
